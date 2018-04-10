@@ -1,4 +1,4 @@
-# Hugo-TDub (0.0.1.alpaha)
+# Hugo-TDub (0.0.1.alpha)
 A  Hugo starter with TypeScript and Webpack (And CSS). Thats it.
 
 # Dev Deploy
